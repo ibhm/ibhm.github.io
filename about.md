@@ -18,7 +18,7 @@ layout: page
 
 <br />
 
-![Cover](assets/images/p1.jpg) 
+![Cover](assets/images/florida.jpg) 
 
 <br />
 
