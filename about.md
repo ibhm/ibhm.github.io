@@ -13,13 +13,14 @@ layout: page
 
 <a href="#Projects"><h2>Projects</h2></a>
 
-<a href="#Skills"><h2>Skills</h2></a>
+<a href="#Skills"><<h2>Skills></h2></a>
 
 <a name="Education"><h2>Education</h2></a>
 
 <a name="Experience"><h2>Experience</h2></a>
 
-<a name="Skills"><h2>Skills</h2></a>
+<a name="Skills"></a>
+<h2>Skills</h2>
 <ul class="skill-list">
 	<li>Android Development</li>
 	<li>Bash Scripting</li>
@@ -38,7 +39,6 @@ layout: page
 </ul>
 
 <a name="Projects"><h2>Projects</h2></a>
-
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
