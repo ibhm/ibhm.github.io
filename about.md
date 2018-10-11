@@ -18,7 +18,7 @@ layout: page
 
 <br />
 
-![Cover](assets/images/p1.jpg){:class="img-responsive"}
+![Cover](assets/images/p1.jpg) 
 
 <br />
 
