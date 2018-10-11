@@ -18,6 +18,7 @@ layout: page
 <hr>
 <br />
 </h2>
+
 ![cover](assets/images/flordia.jpg)
 
 <hr>
