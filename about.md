@@ -13,12 +13,12 @@ layout: page
 
 <h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Projects">Projects</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="#Skills">Skills</a></h2>
 
-<h2 style="text-align: center; width:49%; display: inline-block;"><a href="#Volunteering and Other Highlights">Volunteering and Other Highlights</a></h2>
+<h2 style="text-align: center; display: inline-block;"><a href="#Volunteering and Other Highlights">Volunteering and Other Highlights</a></h2>
 
 <hr>
 <br />
 
-![cover](assets/images/florida.jpg)
+![cover]({{ site.picture4 }})
 
 <br />
 <hr>
