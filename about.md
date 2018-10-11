@@ -27,7 +27,6 @@ layout: page
 
 <br />
 <hr>
-<br />
 
 <h3><a id="Experience" style="text-decoration:none">Experience</a></h3>
 <ul>
