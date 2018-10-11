@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture3 }})
 
-<p>Most of these shots were taken from an iPhone 6S or the 8+. Sorted by absolutely no chronological logic whatsoever!</p>
+<p style="text-align: center">Most of these shots were taken from an iPhone 6S or the 8+. Sorted by absolutely no chronological logic whatsoever!</p>
 
 <hr>
 
