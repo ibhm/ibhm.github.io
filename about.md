@@ -68,8 +68,7 @@ layout: page
 		</ul>
 
 Bachelor of Sciences(Honors Life Science)
-		<br />
-		<b>McMaster University (September 2016 - May 2020)</b>
+		<br />McMaster University (September 2016 - May 2020)
 
 <h3><a id="Skills" style="text-decoration:none">Skills</a></h3>
 	<ul class="skill-list">
