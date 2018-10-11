@@ -16,9 +16,9 @@ layout: page
 
 <h3><a id="Experience">Experience</a></h3>
 <ul>
-	<li>Small Business Specalist, <b>Rogers</b>
-		<br />(March 2016 - May Present)
-		<br /> Mississauga, On
+	<li><b>Small Business Specalist, Rogers</b>
+		<br /><i>(March 2016 - May Present) </i>
+		<br /><i> Mississauga, On </i>
 		<ul>
 			<li>Exceeded sales targets consistently while providing tailored solutions that position multiple products to solve complex issues </li>
 			<li>Handle intense situations pertaining to billing, account maintenance and Rogers services by persistently providing constructive resolutions </li>
