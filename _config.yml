@@ -1,0 +1,74 @@
+name: Ibrahim Malik
+bio: A passionate baseball fan trying to speak assembly fluently
+
+
+# if it's an external image, update below for true
+# better with square images
+external-image: false
+picture: assets/images/profile2.jpg
+picture2: assest/images/p2.jpg
+
+url: http://ibhm.github.io
+# your url: http://USERNAME.github.io
+
+permalink: /:title/
+
+# To enable google analytics, supply your token below
+# analytics-google: 'UA-MYANALYTICS'
+
+# if you don't have any of social below, comment the line
+facebook: ibrahimhasanmalik
+# twitter: mytwitter
+# google: mygoogle
+instagram: ibrahimhmalik
+# pinterest: mypinterest
+linkedin: ibrahimhmalik
+# youtube: myyoutube
+# spotify: myspotify
+github: ibhm
+# gitlab: mygitlab
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
+email: ibhm@live.com
+
+authors:
+    johndoe:
+        name: Ibrahim Malik
+        bio: A passionate baseball fan trying to speak assembly fluently
+        external-image: false
+        picture: assets/images/profile2.jpg
+        picture2: assest/images/p2.jpg
+
+# do you want a larger site? change the option below
+# options: [normal, large] | default: normal
+# normal = 560px / large = 810px
+width: large
+
+# if you don't need pagination, comment the *paginate* configs below
+# paginate: 5
+# paginate_path: "blog/:num/"
+
+# if you don't need projects, comment the *projects* configs below
+projects: true
+
+# if you don't need "about" or "blog", comment them out below
+E: true
+
+#exp: true
+
+# do you want some animations?
+animation: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-admin
+
+baseurl: "ibhm.github.io"
