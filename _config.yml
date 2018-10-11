@@ -5,7 +5,7 @@ external-image: false
 picture: assets/images/profile2.jpg
 picture2: assets/images/toronto.jpg
 picture3: assets/images/chi.jpg
-picture4: assets/images/florida.jpg
+picture4: assets/images/f2.jpg
 
 url: http://ibhm.github.io
 
@@ -39,7 +39,7 @@ authors:
         external-image: false
         picture: assets/images/profile2.jpg
         picture2: assest/images/toronto.jpg
-        #picture3: assets/images/chi.jpg
+        picture4: assets/images/f2.jpg
 
 width: large
 
