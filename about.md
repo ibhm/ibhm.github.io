@@ -16,9 +16,11 @@ layout: page
 
 <h2><a href="#Volunteering and Other Highlights">Volunteering and Other Highlights</a></h2>
 
+<br />
 
 ![cover](assets/images/florida.jpg)
 
+<br />
 
 <h3><a id="Experience">Experience</a></h3>
 <ul>
