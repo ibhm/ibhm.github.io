@@ -37,6 +37,8 @@ layout: page
 			<li>Handle intense situations pertaining to billing, account maintenance and Rogers services by persistently providing constructive resolutions </li>
 			<li>Troubleshoot intricate technical problems on a highly diverse range of Rogers technology demonstrating extensive product knowledge </li>
 			<li>Sustain strong professional relationships with clients and manage high-value accounts </li>
+			<li> Fully up to date with the entire roster of available technology ranging from latest wireless devices to various tiers of cable infrastructure </li>
+			<li> Fluent with several back-end systems for processing Rogers services </li>
 		</ul>	
 	<b>Sales Associate, Calvin Klein</b>
 		<br />(April 2015 - December 2015) 
@@ -49,7 +51,7 @@ layout: page
 		<br />Milton, Ontario 
 		<ul>
 			<li>Maintained inventory and training of new employees for company policies, protocols and sales thus assisting with day to day operations </li>
-			<li>Dramatically made sales improvements by implementing recommendations of marketing techniques after analyzing performance trends </li>
+			<li>Dramatically made sales improvements by implementing recommendations of marketing techniques after analyzing performance trends. These actions dramatically helped increase sales revenues by 240% in under 3 months.</li>
 			<li>Executed retail tasks such as processing transactions while dealing with multiple customers simultaneously in a fast-paced environment </li>
 		</ul>
 
