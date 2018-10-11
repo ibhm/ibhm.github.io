@@ -21,7 +21,7 @@ layout: page
 
 <div markdown="1">
 
-![Profile Image](assets/images/f2.jpg)
+![cover](assets/images/f2.jpg)
 
 </div>
 
