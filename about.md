@@ -6,9 +6,10 @@ layout: page
 
 <p>Somehow over the past few years, I went from counting genetically altered worms on a microscopic slide to furiously programming complex computer instructions in the binary world. I am eager to continue exploring the amazing concepts of computer science and use it to solve our real-world problems!</p>
 
-<h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Experience">Experience</a></h2>
 
-<h2 style="text-align: right; width:50%;  display: inline-block;"><a href="#Education">Education</a></h2>
+ 
+
+<h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Experience">Experience</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="#Education">Education</a></h2>
 
 <h2><a href="#Projects">Projects</a></h2>
 
