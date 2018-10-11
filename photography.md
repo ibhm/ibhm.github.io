@@ -26,7 +26,8 @@ layout: page
 
 <br />
 
-<div markdown="1">
+ 
+<div style="text-align: center" markdown="1">
 
 ![b](assets/images/101018.jpg)
 
@@ -34,7 +35,7 @@ layout: page
 
 <br />
 
-<div markdown="1">
+<div style="text-align: center" markdown="1">
 
 ![c](assets/images/100918.jpg)
 
