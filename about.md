@@ -38,7 +38,7 @@ layout: page
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul
+</ul>
 
 <h2><a id="Experience">Experience</a></h2>
 
