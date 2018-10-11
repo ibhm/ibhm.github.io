@@ -19,7 +19,7 @@ layout: page
 <br />
 </h2>
 
-![cover](assets/images/flordia.jpg)
+![cover](assets/images/florida.jpg)
 
 <hr>
 <br />
