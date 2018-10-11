@@ -20,9 +20,14 @@ layout: page
 <h3><a id="Education">Education</a></h3>
 <ul>
 	<li>Bachelor of Engineering Software Engineering(Embedded Systems)
-	McMaster University (September 2016 - May 2020)</li>
+		<ul>
+			<li>McMaster University (September 2016 - May 2020)</li>
+		</ul>
+	</li>
 	<li>Bachelor of Sciences(Honors Life Science)
-	McMaster University (September 2010 - May 2014)</li>
+		<ul>
+			<li>McMaster University (September 2016 - May 2020)</li>
+		</ul>
 </ul>
 
 <h3><a id="Skills">Skills</a></h3>
