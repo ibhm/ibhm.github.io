@@ -55,6 +55,7 @@ layout: page
 
 <h3><a id="Education" style="text-decoration:none">Education</a></h3>
 Bachelor of Engineering Software Engineering(Embedded Systems)
+		<br />
 		<b>McMaster University (September 2016 - May 2020)</b>
 		Relevant Coursework:
 		<ul>
@@ -68,6 +69,7 @@ Bachelor of Engineering Software Engineering(Embedded Systems)
 		</ul>
 
 Bachelor of Sciences(Honors Life Science)
+		<br />
 		<b>McMaster University (September 2016 - May 2020)</b>
 
 <h3><a id="Skills" style="text-decoration:none">Skills</a></h3>
