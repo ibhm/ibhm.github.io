@@ -1,5 +1,5 @@
 ---
-title: About - 2
+title: About 
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
@@ -14,16 +14,34 @@ layout: page
 
 <h2><a href="#Skills">Skills</a></h2>
 
+<h2><a href="#Volunteering and Other Highlights">Volunteering and Other Highlights</a></h2>
+
 <h3><a id="Experience">Experience</a></h3>
 <ul>
 	<li><b>Small Business Specalist, Rogers</b>
-		<br /><i>(March 2016 - May Present) </i>
-		<br /><i> Mississauga, On </i>
+		<br /><i>(March 2016 - Present) </i>
+		<br /><i> Mississauga, Ontario </i>
 		<ul>
 			<li>Exceeded sales targets consistently while providing tailored solutions that position multiple products to solve complex issues </li>
 			<li>Handle intense situations pertaining to billing, account maintenance and Rogers services by persistently providing constructive resolutions </li>
 			<li>Troubleshoot intricate technical problems on a highly diverse range of Rogers technology demonstrating extensive product knowledge </li>
 			<li>Sustain strong professional relationships with clients and manage high-value accounts </li>
+		</ul>
+	</li>
+	<li><b>Sales Associate, Calvin Klein</b>
+		<br /><i>(April 2015 - December 2015) </i>
+		<br /><i> Milton, Ontario </i>
+		<ul>
+			<li>Responsible for the management of new stock deliveries from offsite warehouses after actively assessing sales trends and floor merchandise as per CK standards </li>
+		</ul>
+	</li>
+	<li><b>Assistant Manager, MobileSnap</b>
+		<br /><i>(April 2013 - December 2015) </i>
+		<br /><i> Milton, Ontario </i>
+		<ul>
+			<li>Maintained inventory and training of new employees for company policies, protocols and sales thus assisting with day to day operations </li>
+			<li>Dramatically made sales improvements by implementing recommendations of marketing techniques after analyzing performance trends </li>
+			<li>Executed retail tasks such as processing transactions while dealing with multiple customers simultaneously in a fast-paced environment </li>
 		</ul>
 	</li>
 </ul>
@@ -67,4 +85,5 @@ layout: page
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
 
+<h3><a id="Volunteering and Other Highlights">Volunteering and Other Highlights</a></h3>
 
