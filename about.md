@@ -18,10 +18,8 @@ layout: page
 <hr>
 <br />
 
-![cover]({{ site.url }}/{{ site.picture3 }})
+![cover]({{ site.picture4 }})
 
-<br />
-<hr>
 
 
 <h3><a id="Experience">Experience</a></h3>
