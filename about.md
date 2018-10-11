@@ -76,12 +76,12 @@ Bachelor of Sciences (Honors Life Science)
 	<ul class="skill-list">
 		<li>Android Development</li>
 		<li>Bash Scripting</li>
-		<li>C/C++(Basic)</li>
+		<li>C/C++ (Basic)</li>
 		<li>Google APIs</li>
 		<li>GIT</li>
 		<li>FPGA Programming</li>
 		<li>Java</li>
-		<li>Javascript/CSS(Basic)</li>
+		<li>Javascript/CSS (Basic)</li>
 		<li>Python</li>
 		<li>Microsoft Office Suite</li>
 		<li>SQL</li>
