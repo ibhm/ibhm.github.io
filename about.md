@@ -29,8 +29,7 @@ layout: page
 <hr>
 
 <h3><a id="Experience" style="text-decoration:none">Experience</a></h3>
-<ul>
-	<li><b>Small Business Specalist, Rogers</b>
+	<b>Small Business Specalist, Rogers</b>
 		<br />(March 2016 - Present)  
 		<br />Mississauga, Ontario  
 		<ul>
@@ -38,16 +37,14 @@ layout: page
 			<li>Handle intense situations pertaining to billing, account maintenance and Rogers services by persistently providing constructive resolutions </li>
 			<li>Troubleshoot intricate technical problems on a highly diverse range of Rogers technology demonstrating extensive product knowledge </li>
 			<li>Sustain strong professional relationships with clients and manage high-value accounts </li>
-		</ul>
-	</li>
-	<li><b>Sales Associate, Calvin Klein</b>
+		</ul>	
+	<b>Sales Associate, Calvin Klein</b>
 		<br />(April 2015 - December 2015) 
 		<br />Milton, Ontario  
 		<ul>
 			<li>Responsible for the management of new stock deliveries from offsite warehouses after actively assessing sales trends and floor merchandise as per CK standards </li>
-		</ul>
-	</li>
-	<li><b>Assistant Manager, MobileSnap</b>
+		</ul>	
+	<b>Assistant Manager, MobileSnap</b>
 		<br />(April 2013 - December 2015)  
 		<br />Milton, Ontario 
 		<ul>
@@ -55,8 +52,6 @@ layout: page
 			<li>Dramatically made sales improvements by implementing recommendations of marketing techniques after analyzing performance trends </li>
 			<li>Executed retail tasks such as processing transactions while dealing with multiple customers simultaneously in a fast-paced environment </li>
 		</ul>
-	</li>
-</ul>
 
 <h3><a id="Education" style="text-decoration:none">Education</a></h3>
 <ul>
