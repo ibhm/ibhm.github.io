@@ -19,7 +19,7 @@ layout: page
 
 <a name="Experience"><h2>Experience</h2></a>
 
-<h2><a name="Skills">Skills</a></h2>
+<h2><a id="Skills">Skills</a></h2>
 <ul class="skill-list">
 	<li>Android Development</li>
 	<li>Bash Scripting</li>
@@ -37,7 +37,7 @@ layout: page
 	<li>Verilog</li>
 </ul>
 
-<a name="Projects"><h2>Projects</h2></a>
+<h2><a id="Projects">Projects</a></h2>
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
