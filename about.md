@@ -15,13 +15,16 @@ layout: page
 
 <h2 style="text-align: center; display: inline-block;"><a href="#Volunteering and Other Highlights" style="text-decoration:none">Volunteering and Other Highlights</a></h2>
 
- 
+<hr>
 <br />
 <div markdown="1">
-![Profile Image]({{ site.url }}/{{ site.picture3 }})
+
+![Profile Image](assets/images/f2.jpg)
+
 </div>
 <br />
 
+<hr>
 
 <h3><a id="Experience" style="text-decoration:none">Experience</a></h3>
 <ul>
