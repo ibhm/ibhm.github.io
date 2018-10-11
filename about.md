@@ -51,6 +51,14 @@ layout: page
 	<li>Bachelor of Engineering Software Engineering(Embedded Systems)
 		<ul>
 			<li>McMaster University (September 2016 - May 2020)</li>
+			<br />Relevant Coursework:
+			<ul><li>Algorithms</li>
+				<li>Digital Logic</li>
+				<li>Mechatronics Design</li>
+				<li>Concurrency</li>
+				<li>Software Engineering</li>
+				<li>Computer Architecture</li>
+			</ul>
 		</ul>
 	</li>
 	<li>Bachelor of Sciences(Honors Life Science)
