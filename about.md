@@ -54,7 +54,7 @@ layout: page
 		</ul>
 
 <h3><a id="Education" style="text-decoration:none">Education</a></h3>
-Bachelor of Engineering Software Engineering(Embedded Systems)
+<b>Bachelor of Engineering Software Engineering (Embedded Systems)</b>
 		<br /><b>McMaster University (September 2016 - May 2020)</b>
 		<br />Relevant Coursework:
 		<ul>
