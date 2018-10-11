@@ -18,7 +18,7 @@ layout: page
 
 <br />
 
-![Cover](assets/images/florida.jpg =3x) 
+![Cover](assets/images/florida.jpg =1000x200) 
 
 <br />
 
