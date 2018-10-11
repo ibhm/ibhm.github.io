@@ -4,6 +4,7 @@ bio: A passionate baseball fan trying to speak assembly fluently
 external-image: false
 picture: assets/images/profile2.jpg
 picture2: assets/images/toronto.jpg
+picture3: assets/images/chi.jpg
 
 url: http://ibhm.github.io
 
@@ -37,6 +38,7 @@ authors:
         external-image: false
         picture: assets/images/profile2.jpg
         picture2: assest/images/toronto.jpg
+        #picture3: assets/images/chi.jpg
 
 width: large
 
