@@ -18,14 +18,7 @@ layout: page
 
 <br />
 
-var img = new Image();
-var div = document.getElementById('foo');
-
-img.onload = function() {
-  div.appendChild(img);
-};
-
-img.src = 'assets/images/p1.jpg';
+![Cover](assets/images/p1.jpg){:class="img-responsive"}
 
 <br />
 
