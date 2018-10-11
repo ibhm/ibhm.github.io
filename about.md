@@ -102,7 +102,7 @@ layout: page
 <h3><a id="Projects" style="text-decoration:none">Projects</a></h3>
 <ul>
 	<li><a href="https://github.com/ibhm/ParkThisCar">ParkThisCar</a></li>
-	<br /><b>Initiated in January 2018.</b>
+	<b>Initiated in January 2018.</b>
 		<ul>
 			<li>This is a java based project that allows a user to type in an address and recieve the GPS coordinates of the 5 closest parking spots available to them. Currently, it only incorporates the city of Seattle and is using geocoding from Google APIs to convert string addresses into values that can be used by mapping algorithms. It currently functions as a basic MVC website if hosted on a local server. 
 			</li>
