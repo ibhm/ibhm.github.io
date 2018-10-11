@@ -17,9 +17,13 @@ layout: page
 
 <hr>
 <br />
+</h2>
 
 ![cover]({{ site.picture4 }})
 
+<hr>
+<br />
+</h2>
 
 
 <h3><a id="Experience">Experience</a></h3>
