@@ -55,7 +55,7 @@ layout: page
 
 <h3><a id="Education" style="text-decoration:none">Education</a></h3>
 <b>Bachelor of Engineering Software Engineering (Embedded Systems)</b>
-		<br /><b>McMaster University (September 2016 - May 2020)</b>
+		<br /><i>McMaster University (September 2016 - May 2020)</i>
 		<br />Relevant Coursework:
 		<ul>
 			<li>Algorithms</li>
@@ -67,7 +67,7 @@ layout: page
 			<li>Computer Architecture</li>
 		</ul>
 
-Bachelor of Sciences(Honors Life Science)
+Bachelor of Sciences (Honors Life Science)
 		<br />McMaster University (September 2016 - May 2020)
 
 <h3><a id="Skills" style="text-decoration:none">Skills</a></h3>
