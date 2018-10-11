@@ -2,7 +2,7 @@
 title: About 
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{site.url}}/{{site.picture2}})
 
 <p>Somehow over the past few years, I went from counting genetically altered worms on a microscopic slide to furiously programming complex computer instructions in the binary world. I am eager to continue exploring the amazing concepts of computer science and use it to solve our real-world problems!</p>
 
@@ -15,6 +15,18 @@ layout: page
 <h2><a href="#Skills">Skills</a></h2>
 
 <h2><a href="#Volunteering and Other Highlights">Volunteering and Other Highlights</a></h2>
+
+<br />
+
+
+<br />
+
+
+<br />
+
+
+<br />
+
 
 <h3><a id="Experience">Experience</a></h3>
 <ul>
