@@ -1,19 +1,22 @@
 ---
-title: About - 1
+title: About - 2
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Somehow over the past few years, I went from counting genetically altered worms on a microscopic slide to furiously programming complex computer instructions in the binary world. I am eager to continue exploring the amazing concepts of computer science and use it to solve our real-world problems!</p>
 
+<h2><a href="#Education">Education</a></h2>
+
+<h2><a href="#Experience">Experience</a></h2>
 
 <h2><a href="#Projects">Projects</a></h2>
 
 <h2><a href="#Skills">Skills</a></h2>
 
-<h2><a href="#Education">Education</a></h2>
+<h2><a id="Experience">Experience</a></h2>
 
-<h2><a href="#Experience">Experience</a></h2>
+<h2><a id="Education">Education</a></h2>
 
 <h2><a id="Skills">Skills</a></h2>
 <ul class="skill-list">
@@ -39,9 +42,5 @@ layout: page
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
-
-<h2><a id="Experience">Experience</a></h2>
-
-<h2><a id="Education">Education</a></h2>
 
 
