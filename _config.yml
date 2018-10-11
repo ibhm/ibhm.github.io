@@ -57,7 +57,7 @@ width: large
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-E: true
+about: true
 
 #exp: true
 
