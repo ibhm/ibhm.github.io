@@ -33,7 +33,7 @@ layout: page
 	<li>Verilog</li>
 </ul>
 
-<h2><a name="Porjects"></a></h2>
+<h2><a name="Projects"></a></h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
