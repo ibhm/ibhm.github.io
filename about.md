@@ -15,7 +15,19 @@ layout: page
 
 <h2 style="text-align: center; display: inline-block;"><a href="#Volunteering and Other Highlights">Volunteering and Other Highlights</a></h2>
 
+<hr>
+<br />
+</h2>
+
+<ul>
+<li  markdown="1">
 ![cover](assets/images/florida.jpg)
+</li>
+</ul>
+
+<hr>
+<br />
+</h2>
 
 
 <h3><a id="Experience">Experience</a></h3>
