@@ -7,13 +7,17 @@ layout: page
 <p>Somehow over the past few years, I went from counting genetically altered worms on a microscopic slide to furiously programming complex computer instructions in the binary world. I am eager to continue exploring the amazing concepts of computer science and use it to solve our real-world problems!</p>
 
 
+<a href="#Experiences"><h2>Experiences</h2></a>
+
+<a href="#Education"><h2>Education</h2></a>
+
+<a href="#Projects"><h2>Projects</h2></a>
+
 <a href="#Skills"><h2>Skills</h2></a>
 
-<h2><a href="#Experiences"></a></h2>
+<a name="Education"><h2>Education</h2></a>
 
-<h2><a href="#Education"></a></h2>
-
-<h2><a href="#Projects"></a></h2>
+<a name="Experience"><h2>Experience</h2></a>
 
 <a name="Skills"><h2>Skills</h2></a>
 <ul class="skill-list">
@@ -33,14 +37,10 @@ layout: page
 	<li>Verilog</li>
 </ul>
 
-<h2><a name="Projects"></a></h2>
+<a name="Projects"><h2>Projects</h2></a>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
-
-<h2><a name="Experiences"></a></h2>
-
-<h2><a name="Education"></a></h2>
