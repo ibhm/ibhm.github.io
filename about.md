@@ -19,11 +19,9 @@ layout: page
 <br />
 </h2>
 
-<ul>
-<li  markdown="1">
+<markdown="1">
 ![cover](assets/images/florida.jpg)
-</li>
-</ul>
+ 
 
 <hr>
 <br />
