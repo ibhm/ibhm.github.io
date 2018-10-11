@@ -18,12 +18,7 @@ layout: page
 
 <br />
 
-
-<br />
-
-
-<br />
-
+![Profile Image]({{{{ site.picture4 }})
 
 <br />
 
