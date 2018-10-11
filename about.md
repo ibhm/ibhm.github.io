@@ -13,14 +13,13 @@ layout: page
 
 <a href="#Projects"><h2>Projects</h2></a>
 
-<a href="#Skills"><<h2>Skills></h2></a>
+<h2><a href="#Skills">Skills</a></h2>
 
 <a name="Education"><h2>Education</h2></a>
 
 <a name="Experience"><h2>Experience</h2></a>
 
-<a name="Skills"></a>
-<h2>Skills</h2>
+<h2><a name="Skills">Skills</a></h2>
 <ul class="skill-list">
 	<li>Android Development</li>
 	<li>Bash Scripting</li>
