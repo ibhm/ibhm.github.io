@@ -14,11 +14,11 @@ layout: page
 
 <h2><a href="#Skills">Skills</a></h2>
 
-<h2><a id="Experience">Experience</a></h2>
+<h3><a id="Experience">Experience</a></h3>
 
-<h2><a id="Education">Education</a></h2>
+<h3><a id="Education">Education</a></h3>
 
-<h2><a id="Skills">Skills</a></h2>
+<h3><a id="Skills">Skills</a></h3>
 <ul class="skill-list">
 	<li>Android Development</li>
 	<li>Bash Scripting</li>
@@ -36,7 +36,7 @@ layout: page
 	<li>Verilog</li>
 </ul>
 
-<h2><a id="Projects">Projects</a></h2>
+<h3><a id="Projects">Projects</a></h3>
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
