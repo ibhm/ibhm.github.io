@@ -20,7 +20,7 @@ layout: page
 
 <div markdown="1">
 
-![](assets/images/p1.jpg)
+![a](assets/images/p1.jpg)
 
 </div>
 
@@ -28,7 +28,15 @@ layout: page
 
 <div markdown="1">
 
-![](assets/images/101018.jpg)
+![b](assets/images/101018.jpg)
+
+</div>
+
+<br />
+
+<div markdown="1">
+
+![c](assets/images/100918.jpg)
 
 </div>
 
