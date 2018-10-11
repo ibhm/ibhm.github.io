@@ -15,7 +15,18 @@ layout: page
 <h2><a href="#Skills">Skills</a></h2>
 
 <h3><a id="Experience">Experience</a></h3>
-
+<ul>
+	<li>Small Business Specalist, <b>Rogers</b>
+		<\n> (March 2016 - May Present)
+		<\n> Mississauga, On
+		<ul>
+			<li>Exceeded sales targets consistently while providing tailored solutions that position multiple products to solve complex issues </li>
+			<li>Handle intense situations pertaining to billing, account maintenance and Rogers services by persistently providing constructive resolutions </li>
+			<li>Troubleshoot intricate technical problems on a highly diverse range of Rogers technology demonstrating extensive product knowledge </li>
+			<li>Sustain strong professional relationships with clients and manage high-value accounts </li>
+		</ul>
+	</li>
+</ul>
 
 <h3><a id="Education">Education</a></h3>
 <ul>
@@ -28,6 +39,7 @@ layout: page
 		<ul>
 			<li>McMaster University (September 2016 - May 2020)</li>
 		</ul>
+	</li>
 </ul>
 
 <h3><a id="Skills">Skills</a></h3>
