@@ -18,7 +18,14 @@ layout: page
 
 <br />
 
-![Profile Image]({{{{ site.picture4 }})
+var img = new Image();
+var div = document.getElementById('foo');
+
+img.onload = function() {
+  div.appendChild(img);
+};
+
+img.src = 'assets/images/p1.jpg';
 
 <br />
 
