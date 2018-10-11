@@ -17,14 +17,17 @@ layout: page
 
 <br />
 <hr>
- 
+<br />
+
 <div markdown="1">
 
 ![Profile Image](assets/images/f2.jpg)
 
 </div>
+
 <br />
 <hr>
+<br />
 
 <h3><a id="Experience" style="text-decoration:none">Experience</a></h3>
 <ul>
