@@ -55,23 +55,20 @@ layout: page
 
 <h3><a id="Education" style="text-decoration:none">Education</a></h3>
 Bachelor of Engineering Software Engineering(Embedded Systems)
+		<b>McMaster University (September 2016 - May 2020)</b>
+		Relevant Coursework:
 		<ul>
-			<li>McMaster University (September 2016 - May 2020)</li>
-			Relevant Coursework:
-			<ul><li>Algorithms</li>
-				<li>Digital Logic</li>
-				<li>Mechatronics Design</li>
-				<li>Concurrency</li>
-				<li>Databases</li>
-				<li>Software Development</li>
-				<li>Computer Architecture</li>
-			</ul>
+			<li>Algorithms</li>
+			<li>Digital Logic</li>
+			<li>Mechatronics Design</li>
+			<li>Concurrency</li>
+			<li>Databases</li>
+			<li>Software Development</li>
+			<li>Computer Architecture</li>
 		</ul>
 
 Bachelor of Sciences(Honors Life Science)
-		<ul>
-			<li>McMaster University (September 2016 - May 2020)</li>
-		</ul>
+		<b>McMaster University (September 2016 - May 2020)</b>
 
 <h3><a id="Skills" style="text-decoration:none">Skills</a></h3>
 	<ul class="skill-list">
