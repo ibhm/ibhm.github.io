@@ -18,8 +18,7 @@ layout: page
 <hr>
 <br />
 </h2>
-
-![cover]({{ site.picture4 }})
+![cover](assets/images/flordia.jpg)
 
 <hr>
 <br />
