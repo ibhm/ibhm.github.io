@@ -7,7 +7,7 @@ layout: page
 <p>Somehow over the past few years, I went from counting genetically altered worms on a microscopic slide to furiously programming complex computer instructions in the binary world. I am eager to continue exploring the amazing concepts of computer science and use it to solve our real-world problems!</p>
 
 
-<a href="#Skills">Skills</a>
+<a href="#Skills"><h2>Skills</h2></a>
 
 <h2><a href="#Experiences"></a></h2>
 
@@ -15,7 +15,7 @@ layout: page
 
 <h2><a href="#Projects"></a></h2>
 
-<a name="Skills"></a>
+<a name="Skills"><h2>Skills</h2></a>
 <ul class="skill-list">
 	<li>Android Development</li>
 	<li>Bash Scripting</li>
