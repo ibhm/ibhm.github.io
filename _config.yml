@@ -3,8 +3,8 @@ bio: A passionate baseball fan trying to speak assembly fluently
 
 external-image: false
 picture: assets/images/profile2.jpg
-picture2: assets/images/toronto.jpg
-picture3: assets/images/chi.jpg
+picture2: assets/images/101018.jpg
+picture3: assets/images/p1.jpg
 picture4: assets/images/f2.jpg
 
 url: http://ibhm.github.io
@@ -37,9 +37,10 @@ authors:
         name: Ibrahim Malik
         bio: A passionate baseball fan trying to speak assembly fluently
         external-image: false
-        picture: assets/images/profile2.jpg
-        picture2: assest/images/toronto.jpg
-        picture4: assets/images/f2.jpg
+          picture: assets/images/profile2.jpg
+          picture2: assets/images/101018.jpg
+          picture3: assets/images/p1.jpg
+          picture4: assets/images/f2.jpg
 
 width: large
 
