@@ -13,7 +13,7 @@ layout: page
 
 <h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Projects" style="text-decoration:none">Projects</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="#Skills" style="text-decoration:none">Skills</a></h2>
 
-<h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Volunteering and Other Highlights" style="text-decoration:none">Volunteering and Other Highlights</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="https://ibhm.github.io/photography/" style="text-decoration:none">Photograhy</a></h2>
+<h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Volunteering and Other Highlights" style="text-decoration:none">Volunteering and Other Highlights</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="https://ibhm.github.io/photography/" style="text-decoration:none">Photography</a></h2>
 
 <br />
 <hr>

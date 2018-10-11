@@ -197,7 +197,7 @@ layout: page
 
 <div style="text-align: center" markdown="1">
 
-![HAM2](assets/images/HAM2.jpg)
+![MIL1](assets/images/MIL1.jpg)
 
 </div>
 
@@ -217,6 +217,10 @@ layout: page
 
 </div>
 
+
+<br />
+
+
 <br />
 
 <div style="text-align: center" markdown="1">
@@ -224,8 +228,6 @@ layout: page
 ![SEA1](assets/images/SEA1.jpg)
 
 </div>
-
-<br />
 
 <div style="text-align: center" markdown="1">
 
@@ -245,7 +247,7 @@ layout: page
 
 <div style="text-align: center" markdown="1">
 
-![VAN2](assets/images/VAN3.jpg)
+![VAN3](assets/images/VAN3.jpg)
 
 </div>
 
@@ -262,6 +264,14 @@ layout: page
 <div style="text-align: center" markdown="1">
 
 ![VAN4](assets/images/VAN4.jpg)
+
+</div>
+
+<br />
+
+<div style="text-align: center" markdown="1">
+
+![VAN5](assets/images/VAN5.jpg)
 
 </div>
 
