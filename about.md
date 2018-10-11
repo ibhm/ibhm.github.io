@@ -19,8 +19,8 @@ layout: page
 <h3><a id="Experience">Experience</a></h3>
 <ul>
 	<li><b>Small Business Specalist, Rogers</b>
-		<br /><i>(March 2016 - Present) </i>
-		<br /><i> Mississauga, Ontario </i>
+		<br />(March 2016 - Present)  
+		<br />Mississauga, Ontario  
 		<ul>
 			<li>Exceeded sales targets consistently while providing tailored solutions that position multiple products to solve complex issues </li>
 			<li>Handle intense situations pertaining to billing, account maintenance and Rogers services by persistently providing constructive resolutions </li>
@@ -29,15 +29,15 @@ layout: page
 		</ul>
 	</li>
 	<li><b>Sales Associate, Calvin Klein</b>
-		<br /><i>(April 2015 - December 2015) </i>
-		<br /><i> Milton, Ontario </i>
+		<br />(April 2015 - December 2015) 
+		<br />Milton, Ontario  
 		<ul>
 			<li>Responsible for the management of new stock deliveries from offsite warehouses after actively assessing sales trends and floor merchandise as per CK standards </li>
 		</ul>
 	</li>
 	<li><b>Assistant Manager, MobileSnap</b>
-		<br /><i>(April 2013 - December 2015) </i>
-		<br /><i> Milton, Ontario </i>
+		<br />(April 2013 - December 2015)  
+		<br />Milton, Ontario 
 		<ul>
 			<li>Maintained inventory and training of new employees for company policies, protocols and sales thus assisting with day to day operations </li>
 			<li>Dramatically made sales improvements by implementing recommendations of marketing techniques after analyzing performance trends </li>
@@ -56,7 +56,8 @@ layout: page
 				<li>Digital Logic</li>
 				<li>Mechatronics Design</li>
 				<li>Concurrency</li>
-				<li>Software Engineering</li>
+				<li>Databases</li>
+				<li>Software Development</li>
 				<li>Computer Architecture</li>
 			</ul>
 		</ul>
@@ -79,7 +80,7 @@ layout: page
 	<li>Java</li>
 	<li>Python</li>
 	<li>Microsoft Office Suite</li>
-	<li>MySQL - MongoDB</li>
+	<li>SQL</li>
 	<li>Latex</li>
 	<li>Linux</li>
 	<li>Keil</li>
@@ -94,4 +95,20 @@ layout: page
 </ul>
 
 <h3><a id="Volunteering and Other Highlights">Volunteering and Other Highlights</a></h3>
+<ul>
+	<li><b>Volunteer Teaching Assistant</b>
+		<br />(September 2010 - May 2015)  
+		<br />Hamilton, Ontario  
+		<ul>
+			<li>Independently teach Math, French & Science to grade 5-7 ESL children & gifted children in grade 8 and 9    </li>
+		</ul>
+	</li>
+	<li><b>Volunteer, Healthy Learning Initiative</b>
+		<br />(April 2012 - December 2012) 
+		<br />Hamilton, Ontario  
+		<ul>
+			<li>Involved in organizing interactive presentations using PowerPoint promoting healthy living ideas including exercise, eating strategies and body image to a class of local grade 4‐5 students. </li>
+		</ul>
+	</li>
+</ul>
 
