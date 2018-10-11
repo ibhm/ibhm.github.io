@@ -11,11 +11,9 @@ layout: page
 
 <h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Experience">Experience</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="#Education">Education</a></h2>
 
-<h2><a href="#Projects">Projects</a></h2>
+<h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Projects">Projects</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="#Skills">Skills</a></h2>
 
-<h2><a href="#Skills">Skills</a></h2>
-
-<h2><a href="#Volunteering and Other Highlights">Volunteering and Other Highlights</a></h2>
+<h2 style="text-align: center; width:49%; display: inline-block;"><a href="#Volunteering and Other Highlights">Volunteering and Other Highlights</a></h2>
 
 <br />
 <hr>
