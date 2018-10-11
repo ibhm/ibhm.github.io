@@ -6,16 +6,16 @@ layout: page
 
 <p>Somehow over the past few years, I went from counting genetically altered worms on a microscopic slide to furiously programming complex computer instructions in the binary world. I am eager to continue exploring the amazing concepts of computer science and use it to solve our real-world problems!</p>
 
-<h2>Experience</h2>
 
-<h2><a name="Experience"></a>Experience</h2>
+<h2><a href="#Skills"></a></h2>
 
-<h2><a name="Education"></a>Education</h2>
+<h2><a href="#Experiences"></a></h2>
 
-<h2><a name="Highlights"></a>Highlights</h2>
+<h2><a href="#Education"></a></h2>
+
+<h2><a href="#Projects"></a></h2>
 
 <h2><a name="Skills"></a>Skills</h2>
-
 <ul class="skill-list">
 	<li>Android Development</li>
 	<li>Bash Scripting</li>
@@ -33,7 +33,7 @@ layout: page
 	<li>Verilog</li>
 </ul>
 
-<h2>Projects</h2>
+<h2><a name="Porjects"></a></h2>
 
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
