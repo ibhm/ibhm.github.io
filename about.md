@@ -18,7 +18,7 @@ layout: page
 <hr>
 <br />
 
-![cover]({{ site.picture4 }})
+![cover]({{ site.url }}/{{ site.picture3 }})
 
 <br />
 <hr>
