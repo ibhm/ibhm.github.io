@@ -9,24 +9,20 @@ layout: page
 
  
 
-<h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Experience"  style="text-decoration:none">Experience</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="#Education">Education</a></h2>
+<h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Experience"  style="text-decoration:none">Experience</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="#Education" style="text-decoration:none">Education</a></h2>
 
-<h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Projects">Projects</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="#Skills">Skills</a></h2>
+<h2 style="text-align: left; width:49%; display: inline-block;"><a href="#Projects" style="text-decoration:none">Projects</a><h2 style="text-align: right; width:50%;  display: inline-block;"><a href="#Skills" style="text-decoration:none">Skills</a></h2>
 
-<h2 style="text-align: center; display: inline-block;"><a href="#Volunteering and Other Highlights">Volunteering and Other Highlights</a></h2>
+<h2 style="text-align: center; display: inline-block;"><a href="#Volunteering and Other Highlights" style="text-decoration:none">Volunteering and Other Highlights</a></h2>
 
-<hr>
-<br />
-</h2>
+ 
 
 ![Profile Image]({{ site.url }}/{{ site.picture3 }})
  
-<hr>
-<br />
-</h2>
+ 
 
 
-<h3><a id="Experience">Experience</a></h3>
+<h3><a id="Experience" style="text-decoration:none">Experience</a></h3>
 <ul>
 	<li><b>Small Business Specalist, Rogers</b>
 		<br />(March 2016 - Present)  
@@ -56,7 +52,7 @@ layout: page
 	</li>
 </ul>
 
-<h3><a id="Education">Education</a></h3>
+<h3><a id="Education" style="text-decoration:none">Education</a></h3>
 <ul>
 	<li>Bachelor of Engineering Software Engineering(Embedded Systems)
 		<ul>
@@ -79,7 +75,7 @@ layout: page
 	</li>
 </ul>
 
-<h3><a id="Skills">Skills</a></h3>
+<h3><a id="Skills" style="text-decoration:none">Skills</a></h3>
 <ul class="skill-list">
 	<li>Android Development</li>
 	<li>Bash Scripting</li>
@@ -97,14 +93,14 @@ layout: page
 	<li>Verilog</li>
 </ul>
 
-<h3><a id="Projects">Projects</a></h3>
+<h3><a id="Projects" style="text-decoration:none">Projects</a></h3>
 <ul>
 	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
 
-<h3><a id="Volunteering and Other Highlights">Volunteering and Other Highlights</a></h3>
+<h3><a id="Volunteering and Other Highlights" style="text-decoration:none">Volunteering and Other Highlights</a></h3>
 <ul>
 	<li><b>Volunteer Teaching Assistant</b>
 		<br />(September 2010 - May 2015)  
