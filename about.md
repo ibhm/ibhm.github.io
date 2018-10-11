@@ -19,7 +19,7 @@ layout: page
 <br />
 </h2>
 
-![cover](assets/images/f2.jpg)
+![Profile Image]({{ site.url }}/{{ site.picture3 }})
  
 <hr>
 <br />
