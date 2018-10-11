@@ -15,13 +15,14 @@ layout: page
 
 <h2 style="text-align: center; width:49%; display: inline-block;"><a href="#Volunteering and Other Highlights">Volunteering and Other Highlights</a></h2>
 
-<br />
 <hr>
+<br />
 
 ![cover](assets/images/florida.jpg)
 
-<hr>
 <br />
+<hr>
+
 
 <h3><a id="Experience">Experience</a></h3>
 <ul>
